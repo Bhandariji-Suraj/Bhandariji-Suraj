@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Artificial Intelligence, HTML, Machine Learning**
 
-- 📫 How to reach me **bhandariji2003@gmail.com**
+- 📫 How to reach me **bhandarisurajsingh2003@gmail.com**
 
 - ⚡ Fun fact **Chemistry is all about breaking test-tubes**
 
