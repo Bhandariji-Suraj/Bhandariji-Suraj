@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Myself Suraj Singh Bhandari</h1>
-<h3 align="center">Slow but Steady Learner just like K-NN | AIML Enthusiast</h3>
+<h3 align="center">Be like K-NN | AIML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhandariji-suraj&label=Profile%20views&color=0e75b6&style=flat" alt="bhandariji-suraj" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Skin Disease Detection using Deep Learning**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **AIML**
 
-- 👯 I’m looking to collaborate on **Healthcare Solutions using AI & ML**
+- 👯 I’m looking to collaborate on **AI & ML**
 
 - 💬 Ask me about **Artificial Intelligence, HTML, Machine Learning**
 
